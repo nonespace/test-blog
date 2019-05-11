@@ -5,7 +5,7 @@ const config = {
   user: 'root' ,
   password:  'LZX1992-:=' ,
   options: {
-    host: "58.87.92.197",
+    host: "127.0.0.1",
     dialect: 'mysql', // 连接到 mysql
     pool: {
       max: 5,
